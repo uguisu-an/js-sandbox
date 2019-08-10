@@ -4,3 +4,4 @@ javascript
 typescript
 prettier
 eslint
+jest
