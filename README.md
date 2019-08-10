@@ -5,3 +5,9 @@ typescript
 prettier
 eslint
 jest
+
+## lint
+
+```
+npm run lint
+```

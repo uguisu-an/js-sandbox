@@ -4,7 +4,8 @@
   "description": "javascript sandbox",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint src --fix"
   },
   "keywords": [
     "javascript",
