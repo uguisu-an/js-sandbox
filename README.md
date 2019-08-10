@@ -6,6 +6,12 @@ prettier
 eslint
 jest
 
+## test
+
+```
+npm test
+```
+
 ## lint
 
 ```
